@@ -1,2 +1,2 @@
-# SPM
-Official implementation of "Efficient Spiking Point Mamba for Point Cloud Analysis" (ICCV2025)
+# Spiking Point Mamba (ICCV 2025)
+Coming soon 🔜
